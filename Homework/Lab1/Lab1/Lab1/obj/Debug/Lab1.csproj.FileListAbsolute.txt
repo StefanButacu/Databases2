@@ -1,0 +1,10 @@
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Homework\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Homework\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Homework\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Homework\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Homework\Lab1\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Homework\Lab1\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Homework\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Homework\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Homework\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Homework\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb

@@ -1,0 +1,10 @@
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Problema1Practic\Problema1\Problema1\bin\Debug\Problema1.exe.config
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Problema1Practic\Problema1\Problema1\bin\Debug\Problema1.exe
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Problema1Practic\Problema1\Problema1\bin\Debug\Problema1.pdb
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Problema1Practic\Problema1\Problema1\obj\Debug\Problema1.csproj.AssemblyReference.cache
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Problema1Practic\Problema1\Problema1\obj\Debug\Problema1.Properties.Resources.resources
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Problema1Practic\Problema1\Problema1\obj\Debug\Problema1.csproj.GenerateResource.cache
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Problema1Practic\Problema1\Problema1\obj\Debug\Problema1.csproj.CoreCompileInputs.cache
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Problema1Practic\Problema1\Problema1\obj\Debug\Problema1.exe
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Problema1Practic\Problema1\Problema1\obj\Debug\Problema1.pdb
+E:\Facultate\Anul2Sem2\Sisteme de gestiune a bazelor de date\Laboratoare\Problema1Practic\Problema1\Problema1\obj\Debug\Problema1.Form1.resources
